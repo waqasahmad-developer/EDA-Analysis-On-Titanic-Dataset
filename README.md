@@ -1,1 +1,1 @@
-These two codes include multiple EDA Analysis on titanic dataset.
+Here are different analysis which i have done on titanic dataset.
